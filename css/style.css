@@ -87,7 +87,8 @@
 }
 
 .top:hover{
-    background-color:#c09fb1
+    background-color:#8a5070;
+    color: #fff;
 }
 
 .img-1{
@@ -134,22 +135,22 @@
     line-height: 50px;
     margin: 30px 10px 0px 10px;
     background:url(../img/img4.png) calc(100% - 18px) center /29px no-repeat,
-    url(../img/img4.png) calc(100% - 10px) center /45px no-repeat, #956d84;
+    url(../img/img4.png) calc(100% - 10px) center /45px no-repeat, #3e887e;
     cursor: pointer;
     transition: all 0.3s;
-    box-shadow: inset 0px 5px 8px 0px #825f73;
+    box-shadow: inset 0px 5px 8px 0px #45635f;
 
 }
 
 
 .button:hover{
-    background: rgb(52, 104, 146);
+    background: rgb(85, 173, 44);
     color: #0e0e0e;
 }
 
 
 .button:active{
-    background: rgb(173, 56, 27);
+    background: rgb(173, 27, 173);
     color: rgb(32, 91, 119);
 }
 
